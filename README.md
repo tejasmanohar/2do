@@ -1,3 +1,4 @@
+
 # Simple Todo List
 
 The Meteor Tutorial app.
@@ -6,4 +7,3 @@ Use it to share a single todo list with your friends. The list updates on everyo
 
 Learn how to build this app by following the [Meteor Tutorial](http://www.meteor.com/install).
 
-![screenshot](screenshot.png)
