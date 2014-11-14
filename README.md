@@ -1,4 +1,4 @@
 2do
 ===
 
-simple todo app built in meteorjs with some students at [CodeDay Nashville](https://codeday.org/nashville)
+simple todo app built in [meteor](https://github.com/meteor/meteor) with some students at [codeday nashville](https://codeday.org/nashville)
